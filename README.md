@@ -24,3 +24,10 @@ git clone https://github.com/tu-usuario/esteganografia-java.git
 cd esteganografia-java
 javac -d . Metodos.java Main.java
 java Esteganografia.Main
+```
+
+Este proyecto es de código abierto bajo la licencia MIT.
+
+Héctor Santiago González Baltierra
+322604322
+
